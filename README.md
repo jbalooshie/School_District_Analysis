@@ -1,4 +1,6 @@
 # School_District_Analysis
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 4 Challenge. This challenge served as an introduction to NumPy and pandas. Topics covered including creating data frames, cleaning data, and performing descriptive analysis. Final project work is in PyCitySchools_Challenge.ipynb. 
+
 ## Overview
 For this analysis, we partnered with the chief data scientist of an unnamed school district to prepare and present the results of the latest round of standardized testing. The goal of the analysis is to provide district and school administrators with accurate and detailed breakdowns of the test results of their student body. With this, they can make informed decisions when it comes to assigning resources to best help their students. We were initially provided with two CSV files. One showed the student's name, grade, school name, math test score, and reading test score. The other showed the school name, school type, student body size, and school budget. From this we were able to provide robust analytics that broke the results down in a variety of ways and highlighted specific trends that cannot be seen by just looking at the test results.
 
