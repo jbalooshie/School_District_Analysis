@@ -26,8 +26,8 @@ In addition, we updated our analysis when it was discovered that the results for
     - There is no difference between the original or the updated values.
 ## Summary
 Below are the original district results followed by the updated district results, with the suspect data removed. Please refer to it in the follow subsection. 
-![Original District Analysis](https://github.com/jbalooshie/School_District_Analysis/blob/main/original_district_summary.PNG) 
-![Updated District Analysis](https://github.com/jbalooshie/School_District_Analysis/blob/main/updated_summary.PNG)
+![Original District Analysis](https://github.com/jbalooshie/School_District_Analysis/blob/main/images/original_district_summary.PNG) 
+![Updated District Analysis](https://github.com/jbalooshie/School_District_Analysis/blob/main/images/updated_summary.PNG)
 
 Please read the below subsection for an analysis of four major areas where the results for the school district change due to the suspect scores. Based on this analysis - it appears a small group of 9th graders at Thomas High School manipulated their scores to ensure they were above the passing threshold. They did not do so in a very conspicuous way (I.E. changing failing grade to one that earns an "A"), and it seems like the extent of the manipulation was to slightly bump up the number of students who were considered passing.
 
